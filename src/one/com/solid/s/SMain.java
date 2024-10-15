@@ -1,7 +1,8 @@
-package com.solid.s;
+package one.com.solid.s;
 
-import com.solid.s.bad.BadEmployee;
-import com.solid.s.good.*;
+import one.com.solid.s.bad.BadEmployee;
+
+import one.com.solid.s.good.*;
 
 public class SMain {
 

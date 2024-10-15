@@ -1,4 +1,4 @@
-package com.solid.s.bad;
+package one.com.solid.s.bad;
 
 public class BadEmployee {
 
